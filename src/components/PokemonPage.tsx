@@ -3,6 +3,7 @@ import { usePokemon } from '../hook/usePokemon';
 
 export const PokemonPage = () => {
 
+    //TODO Clear pokemons
     const {pokemons, prevPage, nextPage} = usePokemon();
 
   return (
