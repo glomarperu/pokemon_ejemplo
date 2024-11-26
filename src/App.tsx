@@ -1,8 +1,8 @@
 import './App.css'
-import { CounterComponent } from './components/CounterComponent'
-import { FunctionComponents } from './components/FunctionComponents'
+//import { CounterComponent } from './components/CounterComponent'
+//import { FunctionComponents } from './components/FunctionComponents'
 import { PokemonPage } from './components/PokemonPage'
-import { TypesComponent } from './components/TypesComponent'
+//import { TypesComponent } from './components/TypesComponent'
 
 function App() {
  
